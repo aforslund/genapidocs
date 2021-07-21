@@ -24,6 +24,7 @@ public class GenerateAPIDocTest1 {
         public String generateSomething(@PathVariable int genId) {
                 return "generated";
         }
+}
 ```
 ```
 @RestController
